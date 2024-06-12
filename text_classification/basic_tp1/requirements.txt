@@ -1,0 +1,5 @@
+liblinear == 2.11.2
+liblinear-official == 2.47.0
+nltk == 3.8.1
+pandas == 2.2.2
+torch == 2.3.1

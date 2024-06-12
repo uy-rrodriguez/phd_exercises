@@ -1,0 +1,11 @@
+# Python compilation files
+*.pyc
+
+# Environment
+venv/
+
+# IDE files
+.idea/
+
+# Local libraries
+liblinear* 
